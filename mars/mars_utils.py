@@ -66,6 +66,7 @@ XLOG_COPY_HEADER_FILES = {
             "mars/comm/xlogger/xlogger.h": "xlog",
             "mars/log/appender.h": "xlog",
             "mars/log/xlogger_interface.h": "xlog",
+            "mars/log/ffi/c_xlog.h": "xlog",
             }      
 
 class bcolors:
